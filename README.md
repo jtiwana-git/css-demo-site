@@ -12,4 +12,7 @@ changed the <div> for the header to a <header> tag
 Then changed the sub <div> to <nav> and then changed div to nav (header).
 Once the <nav> changed, the css 
 ".body {}" didn't work so I removed the "." and this worked "body {}"
+TO ADD a heart emoji with a back line and red color
+In html line (88) - within <h2> I added a <span> for the emoji
+in css i added a span {} and using chrome editor tools, the following properties for added, color: black (ouline of the heart emoji), and font: caption
 

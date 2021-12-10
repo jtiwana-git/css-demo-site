@@ -24,8 +24,9 @@ body {
     font-size: 48px;
 }
 /*Within the Horiseon title "seo" color is different, changed the color to more brighter silver*/
-.header h1 .seo {
+.seo {
     color: silver;
+    
 }
 
 .header nav {
@@ -168,6 +169,7 @@ p {
 .benefit-lead {
     margin-bottom: 32px;
     color: #ffffff;
+
 }
 /*Benefit-brand*/
 .benefit-brand h3 {
@@ -212,5 +214,12 @@ p {
 
 .footer h2 {
     font-size: 20px;
+    
+}
+
+/*Displaying emoji*/
+.footer span {
+    color: black;
+    font: caption;
 
 }
